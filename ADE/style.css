@@ -599,7 +599,7 @@ div {
 
 p {
     margin-bottom: 0px;
-    margin: 0 0 5px;
+    /* margin: 0 0 5px; */
 }
 
 input[type="hidden" i] {
